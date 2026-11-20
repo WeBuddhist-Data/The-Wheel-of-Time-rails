@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffeefc59e47e0904",
+        "id": "efad2fc321743c64",
         "type": "tabs",
         "children": [
           {
-            "id": "f55c1427c230411c",
+            "id": "1734262103c61cdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,15 +197,16 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "f55c1427c230411c",
+  "active": "1734262103c61cdb",
   "lastOpenFiles": [
+    "1-SOURCES/Text/མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཞེས་བྱ་བ།.md",
+    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྟོད་ཆ།.md",
+    "conflict-files-obsidian-git.md",
     "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྨད་ཆ།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
-    "1-SOURCES/Text/མཆོག་གི་དང་པོའི་སངས་རྒྱས་ལས་ཕྱུང་བ་རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་དུས་ཀྱི་འཁོར་ལོ་ཞེས་བྱ་བ།.md",
-    "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྟོད་ཆ།.md",
     "1-SOURCES/Commentaries/བསྡུས་པའི་རྒྱུད་ཀྱི་རྒྱལ་པོ་དུས་ཀྱི་འཁོར་ལོའི་འགྲེལ་བཤད། སྟོད་ཆ། ཤོ་ལོ་ཀ་བཅད་པ.md",
     "1-SOURCES/Commentaries/doc1_segmented.md",
     "1-SOURCES/Commentaries/doc2_segmented (1).md",

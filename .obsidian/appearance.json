@@ -1,4 +1,5 @@
 {
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "Monlam Uni OuChan4,Monlam Uni OuChan3"
+  "interfaceFontFamily": "Monlam Uni OuChan4,Monlam Uni OuChan3",
+  "showRibbon": true
 }
